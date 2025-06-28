@@ -1,0 +1,4 @@
+Alterations:
+
+TRS - 06/25/22 - From Moments Recorder, deleted Demo folder.
+                 From Moments Recorder/Scripts, deleted MinAttribute.cs, Recorder.cs, ReflectionUtils.cs, and Editor folder.

@@ -1,0 +1,21 @@
+{
+    "name": "TRS.GifToolEditor",
+    "references": [
+        "GUID:07386f89fcbf44bb98c5f45f83dc1848",
+        "GUID:073601a7ba14a47da990fcd937d387f0",
+        "GUID:776765f48c9374ea292ae0cee48d023a",
+        "GUID:f128db4932a954bf4a507d298c696a7c",
+        "GUID:7484f0bed7bc849a8a7b7cb747b6883f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
